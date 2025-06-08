@@ -76,7 +76,7 @@ echo "  | |___   \ V // ___ \  ___) || || |_| || |\  |  "
 echo "  |_____|   \_//_/   \_\|____/|___|\___/ |_| \_|  "                                        
 printf "${COLOR_RESET}"
 echo "        The IRS is finding your location..."
-echo -e "      https://github.com/SSU-Development/IRS\n"
+echo -e "           https://github.com/soap-phia/IRS\n"
 printf "\033[?25h"
 }
 

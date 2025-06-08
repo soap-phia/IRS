@@ -64,7 +64,7 @@ export binaries="/irs/binaries"
 
     mkdir -p "$update" "$backups"
 
-    url="https://github.com/SSU-Development/IRS/archive/refs/heads/main.zip"
+    url="https://github.com/soap-phia/IRS/archive/refs/heads/main.zip"
     path="$update/update.zip"
     echo "Downloading IRS..."
     curl -L "$url" -o "$path" 2>/dev/null
@@ -102,7 +102,7 @@ driveupdate() {
 
     mkdir -p "$update" "$backups"
 
-    url="https://github.com/SSU-Development/IRS/archive/refs/heads/main.zip"
+    url="https://github.com/soap-phia/IRS/archive/refs/heads/main.zip"
     path="$update/update.zip"
     echo "Downloading IRS..."
     curl -L "$url" -o "$path" 2>/dev/null

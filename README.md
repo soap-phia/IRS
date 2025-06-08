@@ -7,7 +7,7 @@ those who recover
 # Building
 Run on a SH1MMER shim
 ```bash
-git clone https://github.com/SSU-Development/IRS.git
+git clone https://github.com/soap-phia/IRS.git
 ```
 Copy a Legacy SH1MMER shim into the cloned repo
 ```bash

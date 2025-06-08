@@ -40,7 +40,7 @@ splash() {
     if [ "$1" -eq 1 ]; then
         echo -e "        The IRS is initializing. Please wait..."
     fi
-    echo -e "      https://github.com/SSU-Development/IRS"
+    echo -e "            https://github.com/soap-phia/IRS"
     funText
     echo -e " "
 }
